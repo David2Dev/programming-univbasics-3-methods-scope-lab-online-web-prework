@@ -12,3 +12,6 @@ def link
   puts phrase = "It's Dangerous To Go Alone! Take This."
 end
 
+def any_method 
+  phrase = "Do A Barrel Roll!"
+end
